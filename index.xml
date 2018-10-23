@@ -36,6 +36,20 @@
     </item>
     
     <item>
+      <title>Proyecto de traducción colaborativa de R4DS</title>
+      <link>https://malfaro2.github.io/project/r4ds/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/project/r4ds/</guid>
+      <description>&lt;p&gt;Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro R for Data Science para la comunidad hispanoparlante.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;¿Cómo participar?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Este es un proyecto abierto a la comunidad en el que todas las personas pueden participar siempre y cuando adscriban nuestro código de conducta. Si tienes interés en sumarte al equipo, revisa los documentos de este repositorio para conocer cómo estamos organizando el trabajo y luego contáctanos a través del issue que hemos abierto para ese propósito.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Comparison of Testing Methods in Scalar-on-Function Regression</title>
       <link>https://malfaro2.github.io/publication/fdacomparison/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>

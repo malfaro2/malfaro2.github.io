@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>https://malfaro2.github.io/project/r4ds/</loc>
+      <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://malfaro2.github.io/publication/fdacomparison/</loc>
       <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     </url>
@@ -200,7 +209,7 @@
     
     <url>
     
-      <loc>https://malfaro2.github.io/tags/open-science/</loc>
+      <loc>https://malfaro2.github.io/tags/opensci/</loc>
       <lastmod>2017-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
